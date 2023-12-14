@@ -5,7 +5,6 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-linguagem-utilizada">Tecnologias</a> • 
    <a href="#-pre-requisitos">Desenvolvedoras</a> • 
 </p>
 
@@ -184,3 +183,15 @@ EMAIL_FROM=pdv.equipecodein5@gmail.com
 </details>
 
 ---
+
+## Desenvolvedoras do Projeto:
+
+| [<img src="![Alt text](Karolayne.jpg)" width=40><br><sub>Karolayne Arantes</sub>](https://www.linkedin.com/in/karolayne-arantes/) |
+| :---: |
+
+
+
+
+
+
+###### tags: `back-end` `nodeJS` `PostgreSQL` `API REST` 
