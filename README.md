@@ -186,7 +186,7 @@ EMAIL_FROM=pdv.equipecodein5@gmail.com
 
 ## Desenvolvedoras do Projeto:
 
-| [<img src="img/Karolayne.jpg" width="50"><br><sub>Karolayne Arantes</sub>](https://www.linkedin.com/in/karolayne-arantes/) | [<img src="img/Marcela.jpg" width=50><br><sub>Marcela Linhares</sub>](https://www.linkedin.com/in/marcelagabilan/) | [<img src="img/Debora.jpg" width=50><br><sub>Débora Francislayne</sub>](https://www.linkedin.com/in/debora-francislayne-silva1/) | [<img src="img/Bruna.jpg" width=50><br><sub>Bruna Rodrigues</sub>](https://www.linkedin.com/in/brunarodferreira/) | [<img src="img/Thais.jpg" width=50><br><sub>Thaís Paixão</sub>](https://www.linkedin.com/in/tha%C3%ADs-paix%C3%A3o-742932141/) |
+| [<img src="img/karolayne.jpeg" width="50"><br><sub>Karolayne Arantes</sub>](https://www.linkedin.com/in/karolayne-arantes/) | [<img src="img/Marcela.jpg" width=50><br><sub>Marcela Linhares</sub>](https://www.linkedin.com/in/marcelagabilan/) | [<img src="img/Debora.jpg" width=50><br><sub>Débora Francislayne</sub>](https://www.linkedin.com/in/debora-francislayne-silva1/) | [<img src="img/Bruna.jpg" width=50><br><sub>Bruna Rodrigues</sub>](https://www.linkedin.com/in/brunarodferreira/) | [<img src="img/Thais.jpg" width=50><br><sub>Thaís Paixão</sub>](https://www.linkedin.com/in/tha%C3%ADs-paix%C3%A3o-742932141/) |
 | --- | --- | --- | --- | --- |
 
 
