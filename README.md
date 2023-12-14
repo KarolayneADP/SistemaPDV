@@ -186,8 +186,9 @@ EMAIL_FROM=pdv.equipecodein5@gmail.com
 
 ## Desenvolvedoras do Projeto:
 
-| [<img src="![Alt text](Karolayne.jpg)" width=50><br><sub>Karolayne Arantes</sub>](https://www.linkedin.com/in/karolayne-arantes/) |
-| :---: | | [<img src="![Alt text](Marcela.jpg)" width=50><br><sub>Marcela Linhares</sub>](https://www.linkedin.com/in/marcelagabilan/) |
+[<img src="Karolayne.jpg" width="50"><br><sub>Karolayne Arantes</sub>](https://www.linkedin.com/in/karolayne-arantes/)
+
+| [<img src="![Alt text](Marcela.jpg)" width=50><br><sub>Marcela Linhares</sub>](https://www.linkedin.com/in/marcelagabilan/) |
 | :---: |
 
 | [<img src="![Alt text](Debora.jpg)" width=50><br><sub>Débora Francislayne</sub>](https://www.linkedin.com/in/debora-francislayne-silva1/) |
