@@ -49,14 +49,31 @@ Fizemos o deploy do projeto, pelo site da Cyclic. Em "como executar o projeto" v
 <br>
 
 - **Cadastrar Produto:**
+Essa é a rota que permite o usuário logado cadastrar um novo produto no sistema.
+
 - **Editar dados do produto:**
+Essa é a rota que permite o usuário logado a atualizar as informações de um produto cadastrado.
+
 - **Listar Produtos:**
+Essa é a rota que será chamada quando o usuário logado quiser listar todos os produtos cadastrados.
+
 - **Detalhar Produto:**
+Essa é a rota que permite o usuário logado obter um de seus produtos cadastrados.
+
 - **Excluir Produto por ID:**
+Essa é a rota que será chamada quando o usuário logado quiser excluir um de seus produtos cadastrados.
+
 - **Cadastrar Cliente:**
+Essa é a rota que permite usuário logado cadastrar um novo cliente no sistema.
+
 - **Editar dados do cliente:**
+Essa é a rota que permite o usuário realizar atualização de um cliente cadastrado.
+
 - **Listar Clientes:**
+Essa é a rota que será chamada quando o usuário logado quiser listar todos os clientes cadastrados.
+
 - **Detalhar Cliente:**
+Essa é a rota que será chamada quando o usuário logado quiser obter um de seus clientes cadastrados.
 
 </details>
 
@@ -67,10 +84,19 @@ Fizemos o deploy do projeto, pelo site da Cyclic. Em "como executar o projeto" v
 <br>
 
 - **Cadastrar Pedido:**
+Essa é a rota que será utilizada para cadastrar um novo pedido no sistema. E após o pedido cadastrado é enviado um e-mail para o cliente notificando que o pedido foi efetuado com sucesso. 
+
 - **Listar Pedidos:**
+Essa é a rota que será chamada quando o usuário logado quiser listar todos os pedidos cadastrados.
+
 - **Aplicar validação na exclusão de produto:**
+Foi aplicada uma regra de negócio que não permitirá exclusão de produto que tenha sido registrado em algum pedido.
+
 - **Aprimorar cadastro/atualização de produto:**
+Foram aprimorados o cadastro e a atualização de produto para permitir vincular uma imagem a um produto. 
+
 - **Aprimorar exclusão de produto:**
+Foi aprimorada a exclusão de produto para que quando o produto for excluído também seja removida a imagem vinculada a ele na servidor de armazenamento.
 
 </details>
 
