@@ -165,21 +165,6 @@ No seu terminal digite o comando **npm install** para instalar todas as dependê
 
  - Se encontrar problemas com a conexão com o banco de dados, verifique as configurações no arquivo .env.
 
-**Informações para Complementar arquivo .env.:**
-
-kEY_ID= 005f88682bf09180000000001<br>
-kEY_NAME= equipeCodeIn5<br>
-APP_KEY= K005wmjWoBzXPgMwtv7OEFRlhM9XOSo<br>
-ENDPOINT_S3= s3.us-east-005.backblazeb2.com<br>
-BACKBLAZE_BACKET = equipeCodeIn5<br>
-
-EMAIL_HOST=smtp.sendgrid.net<br>
-EMAIL_PORT=465<br>
-EMAIL_USER=apikey<br>
-EMAIL_PASS="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"<br>
-EMAIL_NAME="PDV-Equipe-CodeIn5"<br>
-EMAIL_FROM=pdv.equipecodein5@gmail.com
-
 </details>
 
 ---
