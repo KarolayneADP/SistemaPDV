@@ -19,15 +19,59 @@ E foi dividido em três sprints:
 <summary>1ª Sprint</summary>
 <br>
 
-- Banco de Dados
-- Listar categorias
-- Cadastrar usuário
-- Efetuar login do usuário
-- Detalhar perfil do usuário logado
-- Editar perfil do usuário logado
-- Efetuar deploy da aplicação
+- **Banco de Dados:**
+Criação tabelas e colunas para **usuarios** e **categorias**.
+
+- **Listar categorias:**
+Essa é a rota que será chamada quando o usuário quiser listar todas as categorias cadastradas.
+
+- **Cadastrar usuário:**
+Essa é a rota que será utilizada para cadastrar um novo usuário no sistema.
+
+- **Efetuar login do usuário:**
+Essa é a rota que permite o usuário cadastrado realizar o login no sistema.
+
+- **Detalhar perfil do usuário logado:**
+Essa é a rota que permite o usuário logado a visualizar os dados do seu próprio perfil, de acordo com a validação do token de autenticação.
+
+- **Editar perfil do usuário logado:**
+Essa é a rota que permite o usuário logado atualizar informações de seu próprio cadastro, de acordo com a validação do token de autenticação.
+
+- **Efetuar deploy da aplicação:**
+Fizemos o deploy do projeto, pelo site da Cyclic. Em "como executar o projeto" você encontrará o link do deploy.
 
 </details>
 
 ---
 
+<details>
+<summary>2ª Sprint</summary>
+<br>
+
+- **Cadastrar Produto:**
+- **Editar dados do produto:**
+- **Listar Produtos:**
+- **Detalhar Produto:**
+- **Excluir Produto por ID:**
+- **Cadastrar Cliente:**
+- **Editar dados do cliente:**
+- **Listar Clientes:**
+- **Detalhar Cliente:**
+
+</details>
+
+---
+
+<details>
+<summary>3ª Sprint</summary>
+<br>
+
+- **Cadastrar Pedido:**
+- **Listar Pedidos:**
+- **Aplicar validação na exclusão de produto:**
+- **Aprimorar cadastro/atualização de produto:**
+- **Aprimorar exclusão de produto:**
+
+</details>
+
+---
