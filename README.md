@@ -154,7 +154,7 @@ No seu terminal digite o comando **npm install** para instalar todas as dependê
 
 - O Projeto pode ser inicializado localmente atravéz do comando **npm start**.
 - A API estará disponível em http://localhost:3000.
-- Tabem estará disponivel, por tempo limitado, atravéz do link do deploy do projeto https://pdv-equipe-codein5.cyclic.app/.
+- A API estará disponivel, por tempo limitado, atravéz do link do deploy do projeto https://pdv-equipe-codein5.cyclic.app/.
 
 </details>
 
