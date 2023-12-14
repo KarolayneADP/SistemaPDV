@@ -101,3 +101,86 @@ Foi aprimorada a exclusão de produto para que quando o produto for excluído ta
 </details>
 
 ---
+
+## ✅ Como executar o projeto
+
+ Abaixo segue as principais instruções para execução do projeto:
+
+<details>
+<summary>1.Requisitos Prévios</summary>
+<br>
+
+Para que seja realizado requisições com os verbos POST, PUT, DELETE use a extensão Thunder Client do VSCode, o aplicativo Insomnia ou similar.
+
+- [Git](https://git-scm.com)
+- [Node.js](https://nodejs.org/en/)
+- [VSCode](https://code.visualstudio.com/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Insomnia](https://insomnia.rest/download)
+
+</details>
+
+---
+
+<details>
+<summary>2.Clone o Repositório</summary>
+<br>
+
+**Passo 1: Obtenha o URL do Repositório**
+- https://github.com/KarolayneADP/SistemaPDV
+
+**Passo 2: Abra o Terminal ou Prompt de Comando e Clone o repositório**
+- Vá ate á URL do repositório e clique no canto superior direito em **Code**.
+- Selecione a chave de sua preferência e dê o comando git clone.
+- Pressione Enter para executar o comando. O Git irá baixar todos os arquivos do repositório para o diretório atual.
+
+</details>
+
+---
+
+<details>
+<summary>3.Instale Dependências</summary>
+<br>
+
+No seu terminal digite o comando **npm install** para instalar todas as dependências do projeto.
+
+</details>
+
+---
+
+<details>
+<summary>4.Execução</summary>
+<br>
+
+- O Projeto pode ser inicializado localmente atravéz do comando **npm start**.
+- A API estará disponível em http://localhost:3000.
+- Tabem estará disponivel, por tempo limitado, atravéz do link do deploy do projeto https://pdv-equipe-codein5.cyclic.app/.
+
+</details>
+
+---
+
+<details>
+<summary>5.Problemas Conhecidos</summary>
+<br>
+
+ - Se encontrar problemas com a conexão com o banco de dados, verifique as configurações no arquivo .env.
+
+**Informações para Complementar arquivo .env.:**
+
+kEY_ID= 005f88682bf09180000000001
+kEY_NAME= equipeCodeIn5
+APP_KEY= K005wmjWoBzXPgMwtv7OEFRlhM9XOSo
+ENDPOINT_S3= s3.us-east-005.backblazeb2.com
+BACKBLAZE_BACKET = equipeCodeIn5
+
+EMAIL_HOST=smtp.sendgrid.net
+EMAIL_PORT=465
+EMAIL_USER=apikey
+EMAIL_PASS="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"
+EMAIL_NAME="PDV-Equipe-CodeIn5"
+EMAIL_FROM=pdv.equipecodein5@gmail.com
+
+</details>
+
+---
